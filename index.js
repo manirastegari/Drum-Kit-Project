@@ -51,8 +51,3 @@ for (var i = 0; i < numberOfDrumButtons; i++) {
 }
 
 // taghire asasi
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
